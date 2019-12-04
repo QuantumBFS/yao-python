@@ -1,7 +1,7 @@
 # Yao Python Package
 This directory and nested files contain Yao Python Package and language binding.
 
-**warning**: This package is a simple wrapper around the Julia package Yao. To use the full feature and power of it, we highly recommend you to use it from Julia language natively.
+**warning**: This package is a simple wrapper around the Julia package Yao. To use the full feature and power of Yao, we highly recommend you to use it from Julia language natively.
 
 ## Installation
 
