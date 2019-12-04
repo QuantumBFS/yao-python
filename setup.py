@@ -29,6 +29,6 @@ setup(name='yao-framework',
       author_email='roger.luo@uwaterloo.ca',
       license='Apache License 2.0',
       packages=['yao_framework'],
-      install_requires=['julia>=1.0'],
+      install_requires=['julia>=0.2'],
       include_package_data=True,
       zip_safe=False)
