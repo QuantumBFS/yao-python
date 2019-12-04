@@ -13,4 +13,11 @@ Then install the python binding by
 pip install yao-framework
 ```
 
+If you haven't installed the Julia package **Yao** and **PyCall**, you can install them from Python by
+
+```python
+import yao_framework
+yao_framework.install()
+```
+
 CUDA is not supported for Yao Python Package yet.
